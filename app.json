@@ -20,5 +20,6 @@
             "description": "Session cookies are signed with this secret to prevent tampering",
             "generator": "secret"
         }
-    }
+    },
+    "stack": "heroku-16"
 }
